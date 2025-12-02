@@ -1,0 +1,6 @@
+transformers
+scikit-learn
+sentencepiece
+accelerate
+tqdm
+pandas
