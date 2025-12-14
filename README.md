@@ -149,6 +149,6 @@ python Evaluate/eval_policy_model.py
 
 #### Models
 
-  * **Base Model:** `google/gemma-2-2b-it` (Instruct Tuned)
-  * **Reward Model:** Gemma-2-2B based Binary Classifier (Scalar Output)
-  * **Policy/Value Model:** Gemma-2-2B with LoRA Adapters
+  * **Base Model:** `google/gemma-3-1b-it` (Instruct Tuned)
+  * **Reward Model:** Gemma-3-1B based Binary Classifier (Scalar Output)
+  * **Policy/Value Model:** Gemma-3-1B with LoRA Adapters
